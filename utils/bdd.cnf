@@ -1,0 +1,6 @@
+[client]
+database = mozio
+host = localhost
+user = mozio
+password = mozio
+default-character-set = utf8
